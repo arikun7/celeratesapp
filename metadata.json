@@ -1,0 +1,6 @@
+{
+  "name": "Customer Behavior Analytics & Recommendation System",
+  "description": "An interactive e-commerce executive dashboard with RFM customer segmentation, collaborative-filtering product recommendation models, time-series forecasting, and automated Gemini AI strategic marketing insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
